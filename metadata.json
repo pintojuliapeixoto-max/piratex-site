@@ -1,0 +1,6 @@
+{
+  "name": "PhotoCraft Studio 2D",
+  "description": "Editor profissional de imagem e pintura digital 2D inspirado no PhotoCraft, com barra superior unificada, camadas com Opacity e Fill, seleções redimensionáveis, divisão de camadas por laço e distorção de texto por linhas guias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

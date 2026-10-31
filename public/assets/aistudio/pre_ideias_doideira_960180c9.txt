@@ -1,0 +1,106 @@
+formatos de arquivos:
+new document...
+DOCUMENT PRESETS
+formatos papel a4...
+web...
+pre salvos..
+filme e vídeo...
+OPÇÃO COLAR ARQUIVOS
+MOVER IMAGENS 
+
+formatos de exportação:
+
+
+
+
+ctrl + Z
+-desfazer
+(voltar)
+
+
+
+
+-movimentar o arquivo
+
+
+
+
+
+ 
+-layer
+linhas guias
+-rotação de objeto
++pre selecionado
+
+
+
+
+
+recortar:
+quadrilátero
+triangular
+eclipse
++conseguir modificar o tamanho após criação de seleção
+
+
+
+
+laço
+pincel:
+(replicar usabilidade do pincel base do photocraft)
+- size
+-opacidade
+-flow
+
+
+
+borracha
+
+
+ligação entre as funções da barra lateral + a layer+ movimentação do selecionado
+
+seleção inteligente
+
+
+atalhos do teclado:
+l- laço
+t- texto
+e- borracha
+p-pincel
+
+(criação de novos pinceis)
++exportar pincel feitos para fotoshop
++funções de usar os pacotes de pinceis feitos para o photoshop
+-brush settings
+
+
+
+tamanho das imagens nas layers
+layers:
+opacidade
+delete layer
+new layer
+nomear layer
+olhinho(visualização ou não de layer)
+modificar a sobreposição de camadas
+duplicar layer
++renomear após duplicação
+
+
+
+fill(transparência)
+- movimentações não quero que estejam na aba de layers (porem preciso ter a movimentação segmentada por layers)
++movimentação do objeto inteiro
+movimentação e transformação de objeto
+
+cores
+gradientes
+# de cores
+
+texto:
+adicionar nova fonte
+mudar ângulo do texto
+centralidade do texto
+modificar o tamanho do texto, pelas laterais...
+linhas guias
+movimentar e transformar o texto, através de distorção por linhas guias
